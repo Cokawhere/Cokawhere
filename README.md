@@ -1,6 +1,6 @@
 # 👻 About Me:
 Hi, I'm Rana<br>**Cross-Platform Mobile Developer | Flutter & React Native**<br><br>
-*I’m a Flutter developer who loves building smooth, user-friendly apps.. I’m positive, easy to work with, and always ready to learn new stuff and take on challenges.**
+* I’m a Flutter developer who loves building smooth, user-friendly apps.. I’m positive, easy to work with, and always ready to learn new stuff and take on challenges. *
 
 
 # Socials:
