@@ -4,7 +4,7 @@
 Flutter dev, chasing clean code and smooth UX — one goal at a time.**
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b7/d8/f3/b7d8f3a1d085b5eeab2e7e87194530ec.jpg" width="220"/>
+  <img src="https://i.pinimg.com/736x/b8/7d/86/b87d862b35b627192cdc288e8971e00a.jpg" width="220"/>
 </p>
 <p align="center">
   <img src="https://i.pinimg.com/736x/b7/d8/f3/b7d8f3a1d085b5eeab2e7e87194530ec.jpg" width="220"/>
