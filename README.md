@@ -16,7 +16,7 @@ Flutter dev, chasing clean code and smooth UX — one goal at a time.**
 </p>
 
 
-# Find Me:
+# Find Me 💅💗:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rana-ali-976227203) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cokawhere)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ro7alimansour@gmail.com) 
 
 # Tech Stack:
