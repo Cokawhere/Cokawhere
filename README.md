@@ -1,7 +1,11 @@
-I'm Rana<br>
-**⚽Building apps with the same precision Messi dribbles defenders.
+# 🦇 Rana | Mobile Developer  
+
+**Building apps with the same precision Messi dribbles defenders.
 Flutter dev, chasing clean code and smooth UX — one goal at a time.**
 
+<p align="center">
+  <img src="https://i.imgur.com/0Z9Q2KD.png" width="120"/>
+</p>
 
 <p align="center">
   <video width="560" controls loop muted>
