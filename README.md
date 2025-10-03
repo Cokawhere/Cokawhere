@@ -4,7 +4,7 @@
 Flutter dev, chasing clean code and smooth UX — one goal at a time.**
 
 <p align="center">
-  <img src="https://music-assets.vercel.app/rana.jpg" width="120"/>
+  <img src="https://music-assets.vercel.app/rana.jpg" width="220"/>
 </p>
 
 <p align="center">
