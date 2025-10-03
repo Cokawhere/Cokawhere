@@ -1,8 +1,6 @@
 I'm Rana<br>
-**⚽
-Building apps with the same precision Messi dribbles defenders.
-Flutter dev, chasing clean code and smooth UX — one goal at a time.
-**
+**⚽Building apps with the same precision Messi dribbles defenders.
+Flutter dev, chasing clean code and smooth UX — one goal at a time.**
 
 
 # Socials:
