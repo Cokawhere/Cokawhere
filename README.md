@@ -1,6 +1,8 @@
-# About Me 👀🥷:
-Hi, I'm Rana<br>
-**I’m a Flutter developer who loves building smooth, user-friendly apps.. I’m positive, easy to work with, and always ready to learn new stuff and take on challenges.**
+I'm Rana<br>
+**⚽
+Building apps with the same precision Messi dribbles defenders.
+Flutter dev, chasing clean code and smooth UX — one goal at a time.
+**
 
 
 # Socials:
