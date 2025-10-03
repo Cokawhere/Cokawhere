@@ -6,9 +6,7 @@ Flutter dev, chasing clean code and smooth UX — one goal at a time.**
 <p align="center">
   <img src="https://i.pinimg.com/1200x/ea/cf/a3/eacfa3498d4a1fec1ab56f6f299cfa8a.jpg" width="420"/>
 </p>
-<p align="center">
-  <img src="https://i.pinimg.com/736x/b7/d8/f3/b7d8f3a1d085b5eeab2e7e87194530ec.jpg" width="220"/>
-</p>
+
 
 <p align="center">
   <video width="480" controls loop muted playsinline>
