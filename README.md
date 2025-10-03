@@ -8,8 +8,9 @@ Flutter dev, chasing clean code and smooth UX — one goal at a time.**
 </p>
 
 <p align="center">
-  <video width="560" controls loop muted>
-    <source src="https://raw.githubusercontent.com/Cokawhere/Cokawhere/blob/8833a0af4425bfd6461a14c0e7f490ca7429da48/WhatsApp%20Video%202025-10-03%20at%2014.38.00_c017d34e.mp4" type="video/mp4" width="560"   autoplay loop muted playsinline>
+  <video width="480" controls loop muted playsinline>
+    <source src="https://music-assets.vercel.app/messi.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
 </p>
 
