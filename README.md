@@ -1,5 +1,5 @@
-# Hi😌♥️
-#                                            Mobile Developer 💗
+# Hi😌
+#                                            Mobile Developer 
 
 **FLUTTER**  || **REACT-NATIVE**
 
