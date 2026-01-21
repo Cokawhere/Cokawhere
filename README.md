@@ -1,6 +1,4 @@
-# Hi😌
 #                                            Mobile Developer 
-
 **FLUTTER**  || **REACT-NATIVE**
 
 <p align="center">
