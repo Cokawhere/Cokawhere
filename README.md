@@ -1,4 +1,4 @@
-# <p align="center"><h1>Yo, I'm Rana 😼</h1></p>
+ <p align="center">**Yo, I'm Rana 😼**</p>
 **FLUTTER**  || **REACT-NATIVE**
 <p align="center">
   <img src="https://i.pinimg.com/1200x/ea/cf/a3/eacfa3498d4a1fec1ab56f6f299cfa8a.jpg" width="770"/>
