@@ -6,7 +6,9 @@
 <p align="center">
   Building mobile apps with the same precision Messi dribbles defenders.<br/>
   Clean code • Beautiful UI • Smooth UX • Zero drama<br/>
-  <b>  FLUTTER && REACT-NATIVE </b>
+  
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 
