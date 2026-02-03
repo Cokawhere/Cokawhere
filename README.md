@@ -6,7 +6,7 @@
 <p align="center">
   Building mobile apps with the same precision Messi dribbles defenders.<br/>
   Clean code • Beautiful UI • Smooth UX • Zero drama<br/>
-  <b> **FLUTTER  && REACT-NATIVE**</b>
+  <b> **FLUTTER  && REACT-NATIVE** </b>
 </p>
 
 
