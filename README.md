@@ -1,11 +1,11 @@
-# <p align="center">**Yo, I'm Rana🐈‍⬛**</p>
+# <p align="center">**YO, I'm Rana🐈‍⬛**</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/1200x/ea/cf/a3/eacfa3498d4a1fec1ab56f6f299cfa8a.jpg" width="770"/>
 </p>
 <p align="center">
   Building mobile apps with the same precision Messi dribbles defenders.<br/>
-  Clean code • Beautiful UI • Smooth UX • Zero drama<br/>
+  Clean code • Beautiful UI • Smooth UX • Zero drama<br/><br/>
   
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
